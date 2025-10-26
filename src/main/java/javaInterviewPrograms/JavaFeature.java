@@ -7,5 +7,7 @@ public class JavaFeature{
 public static void f2() {
 		
 	}
+public static void f3() {
 	
+}
 }
